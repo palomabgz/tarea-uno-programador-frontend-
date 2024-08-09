@@ -1,0 +1,6 @@
+habilidades:
+-Blast Rush Turbo.
+-Howitzer Impact.
+-AP Shot
+-AP Shot Auto-Cannon.
+-Explode-A-Pult.
