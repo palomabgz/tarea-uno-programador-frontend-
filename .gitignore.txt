@@ -1,2 +1,2 @@
 1 chisaki.jpg
-enemigos
+enemigos.txt
